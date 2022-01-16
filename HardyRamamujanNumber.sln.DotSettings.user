@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86e1488b_002Dadc8_002D46f1_002Dbe39_002Dac863f29015e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Partition_InputIsTwoPartitionsWithRemains" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D423067B-8CF0-4B6F-A809-2B51B5563839::net6.0::Hysing.HarduRamamujanNumber.Tests.HardyRamamujanComputer&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b14f93b2_002D7318_002D4e96_002Db517_002D1c10d9f03023/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D423067B-8CF0-4B6F-A809-2B51B5563839::net6.0::Hysing.HarduRamamujanNumber.Tests.HardyRamamujanComputer.Test_QubeRootRoundDown_InputIs64&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D423067B-8CF0-4B6F-A809-2B51B5563839::net6.0::Hysing.HarduRamamujanNumber.Tests.HardyRamamujanComputer.Test_QubeRootRoundDown_InputIs125&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D423067B-8CF0-4B6F-A809-2B51B5563839::net6.0::Hysing.HarduRamamujanNumber.Tests.HardyRamamujanComputer.Test_QubeRootRoundDown_InputIs29&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D423067B-8CF0-4B6F-A809-2B51B5563839::net6.0::Hysing.HarduRamamujanNumber.Tests.HardyRamamujanComputer.Test_Partition&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
