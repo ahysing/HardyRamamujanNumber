@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35035863_002D7469_002D4007_002Db44d_002Dfebc1318cccd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_QubeRoot_InputIsSixtyFour" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9355E89A-3D1C-44CB-B659-203E5CFA8D76::net6.0::HardyRamamujanNumber.Tests.UnitTest1.Test_QubeRoot_InputIsSixtyFour&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6fc9c47f_002D7430_002D40d9_002Da117_002D03cad5e12925/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_QubeRoot" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9355E89A-3D1C-44CB-B659-203E5CFA8D76::net6.0::HardyRamamujanNumber.Tests.UnitTest1.Test_QubeRoot&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b49c6e35_002D9e85_002D47e2_002D844b_002D6dd56f1af94f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9355E89A-3D1C-44CB-B659-203E5CFA8D76::net6.0::HardyRamamujanNumber.Tests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
